@@ -1,0 +1,59 @@
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\Bootstrap Layout.dll.config
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\Bootstrap Layout.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\Bootstrap Layout.pdb
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\csc.exe
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\csc.exe.config
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\csc.rsp
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\csi.exe
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\csi.exe.config
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\csi.rsp
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.AppContext.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Collections.Immutable.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Console.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.IO.Compression.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.IO.FileSystem.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Net.Http.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Net.Sockets.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.ValueTuple.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Xml.XPath.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\vbc.exe
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\vbc.exe.config
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\vbc.rsp
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\VBCSCompiler.exe
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\roslyn\VBCSCompiler.exe.config
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\obj\Debug\Bootstrap Layout.csprojAssemblyReference.cache
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\obj\Debug\Bootstrap Layout.csproj.CoreCompileInputs.cache
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\obj\Debug\Bootstrap Layout.csproj.CopyComplete
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\obj\Debug\Bootstrap Layout.dll
+D:\Bootstrap\bootstrap1\Bootstrap Layout\Bootstrap Layout\obj\Debug\Bootstrap Layout.pdb
