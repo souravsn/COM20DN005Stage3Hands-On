@@ -1,0 +1,7 @@
+D:\testing visual studio\Demo_Dl\PropertyInjection\obj\Debug\PropertyInjection.csprojAssemblyReference.cache
+D:\testing visual studio\Demo_Dl\PropertyInjection\obj\Debug\PropertyInjection.csproj.CoreCompileInputs.cache
+D:\testing visual studio\Demo_Dl\PropertyInjection\bin\Debug\PropertyInjection.exe.config
+D:\testing visual studio\Demo_Dl\PropertyInjection\bin\Debug\PropertyInjection.exe
+D:\testing visual studio\Demo_Dl\PropertyInjection\bin\Debug\PropertyInjection.pdb
+D:\testing visual studio\Demo_Dl\PropertyInjection\obj\Debug\PropertyInjection.exe
+D:\testing visual studio\Demo_Dl\PropertyInjection\obj\Debug\PropertyInjection.pdb

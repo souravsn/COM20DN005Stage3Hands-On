@@ -1,0 +1,7 @@
+D:\testing visual studio\DemoMoq1\DemoMoq1\bin\Debug\DemoMoq1.exe.config
+D:\testing visual studio\DemoMoq1\DemoMoq1\bin\Debug\DemoMoq1.exe
+D:\testing visual studio\DemoMoq1\DemoMoq1\bin\Debug\DemoMoq1.pdb
+D:\testing visual studio\DemoMoq1\DemoMoq1\obj\Debug\DemoMoq1.csprojAssemblyReference.cache
+D:\testing visual studio\DemoMoq1\DemoMoq1\obj\Debug\DemoMoq1.csproj.CoreCompileInputs.cache
+D:\testing visual studio\DemoMoq1\DemoMoq1\obj\Debug\DemoMoq1.exe
+D:\testing visual studio\DemoMoq1\DemoMoq1\obj\Debug\DemoMoq1.pdb

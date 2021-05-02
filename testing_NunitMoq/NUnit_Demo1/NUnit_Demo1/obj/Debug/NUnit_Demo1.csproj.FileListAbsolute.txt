@@ -1,0 +1,6 @@
+D:\testing visual studio\NUnit_Demo1\NUnit_Demo1\bin\Debug\NUnit_Demo1.exe.config
+D:\testing visual studio\NUnit_Demo1\NUnit_Demo1\bin\Debug\NUnit_Demo1.exe
+D:\testing visual studio\NUnit_Demo1\NUnit_Demo1\bin\Debug\NUnit_Demo1.pdb
+D:\testing visual studio\NUnit_Demo1\NUnit_Demo1\obj\Debug\NUnit_Demo1.csproj.CoreCompileInputs.cache
+D:\testing visual studio\NUnit_Demo1\NUnit_Demo1\obj\Debug\NUnit_Demo1.exe
+D:\testing visual studio\NUnit_Demo1\NUnit_Demo1\obj\Debug\NUnit_Demo1.pdb

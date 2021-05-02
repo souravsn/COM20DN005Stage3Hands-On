@@ -1,0 +1,6 @@
+D:\testing visual studio\CreditTestApp\CreditTestApp\bin\Debug\CreditTestApp.exe.config
+D:\testing visual studio\CreditTestApp\CreditTestApp\bin\Debug\CreditTestApp.exe
+D:\testing visual studio\CreditTestApp\CreditTestApp\bin\Debug\CreditTestApp.pdb
+D:\testing visual studio\CreditTestApp\CreditTestApp\obj\Debug\CreditTestApp.csproj.CoreCompileInputs.cache
+D:\testing visual studio\CreditTestApp\CreditTestApp\obj\Debug\CreditTestApp.exe
+D:\testing visual studio\CreditTestApp\CreditTestApp\obj\Debug\CreditTestApp.pdb

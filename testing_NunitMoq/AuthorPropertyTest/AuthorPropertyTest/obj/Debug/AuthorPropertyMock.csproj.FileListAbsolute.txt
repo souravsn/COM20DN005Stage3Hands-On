@@ -1,0 +1,6 @@
+D:\testing visual studio\AuthorPropertyTest\AuthorPropertyTest\bin\Debug\AuthorPropertyTest.exe.config
+D:\testing visual studio\AuthorPropertyTest\AuthorPropertyTest\bin\Debug\AuthorPropertyTest.exe
+D:\testing visual studio\AuthorPropertyTest\AuthorPropertyTest\bin\Debug\AuthorPropertyTest.pdb
+D:\testing visual studio\AuthorPropertyTest\AuthorPropertyTest\obj\Debug\AuthorPropertyMock.csproj.CoreCompileInputs.cache
+D:\testing visual studio\AuthorPropertyTest\AuthorPropertyTest\obj\Debug\AuthorPropertyTest.exe
+D:\testing visual studio\AuthorPropertyTest\AuthorPropertyTest\obj\Debug\AuthorPropertyTest.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMoq1", "DemoMoq1\DemoMoq1.csproj", "{9748D0AF-7EEE-4CFC-9C86-B49357BE4C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyMockerTest", "PropertyMockerTest\PropertyMockerTest.csproj", "{683E6FF5-82C2-40C9-93DB-ADE811BA06D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9748D0AF-7EEE-4CFC-9C86-B49357BE4C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9748D0AF-7EEE-4CFC-9C86-B49357BE4C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9748D0AF-7EEE-4CFC-9C86-B49357BE4C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9748D0AF-7EEE-4CFC-9C86-B49357BE4C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683E6FF5-82C2-40C9-93DB-ADE811BA06D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683E6FF5-82C2-40C9-93DB-ADE811BA06D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683E6FF5-82C2-40C9-93DB-ADE811BA06D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683E6FF5-82C2-40C9-93DB-ADE811BA06D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AFD6D8F-7170-44C5-B5A2-659FE901F9AA}
+	EndGlobalSection
+EndGlobal

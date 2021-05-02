@@ -1,0 +1,7 @@
+D:\testing visual studio\Demo_Dl\MethodInjection\bin\Debug\MethodInjection.exe.config
+D:\testing visual studio\Demo_Dl\MethodInjection\bin\Debug\MethodInjection.exe
+D:\testing visual studio\Demo_Dl\MethodInjection\bin\Debug\MethodInjection.pdb
+D:\testing visual studio\Demo_Dl\MethodInjection\obj\Debug\MethodInjection.csprojAssemblyReference.cache
+D:\testing visual studio\Demo_Dl\MethodInjection\obj\Debug\MethodInjection.csproj.CoreCompileInputs.cache
+D:\testing visual studio\Demo_Dl\MethodInjection\obj\Debug\MethodInjection.exe
+D:\testing visual studio\Demo_Dl\MethodInjection\obj\Debug\MethodInjection.pdb

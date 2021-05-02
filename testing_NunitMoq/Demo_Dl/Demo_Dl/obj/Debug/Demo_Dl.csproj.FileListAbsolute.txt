@@ -1,0 +1,7 @@
+D:\testing visual studio\Demo_Dl\Demo_Dl\bin\Debug\Demo_Dl.exe.config
+D:\testing visual studio\Demo_Dl\Demo_Dl\bin\Debug\Demo_Dl.exe
+D:\testing visual studio\Demo_Dl\Demo_Dl\bin\Debug\Demo_Dl.pdb
+D:\testing visual studio\Demo_Dl\Demo_Dl\obj\Debug\Demo_Dl.csprojAssemblyReference.cache
+D:\testing visual studio\Demo_Dl\Demo_Dl\obj\Debug\Demo_Dl.csproj.CoreCompileInputs.cache
+D:\testing visual studio\Demo_Dl\Demo_Dl\obj\Debug\Demo_Dl.exe
+D:\testing visual studio\Demo_Dl\Demo_Dl\obj\Debug\Demo_Dl.pdb

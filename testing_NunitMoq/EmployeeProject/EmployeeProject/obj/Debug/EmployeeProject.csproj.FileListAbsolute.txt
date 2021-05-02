@@ -1,0 +1,7 @@
+D:\testing visual studio\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csprojAssemblyReference.cache
+D:\testing visual studio\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+D:\testing visual studio\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.exe.config
+D:\testing visual studio\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.exe
+D:\testing visual studio\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.pdb
+D:\testing visual studio\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.exe
+D:\testing visual studio\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb
